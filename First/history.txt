@@ -1,0 +1,9 @@
+fff 20
+Artem 10
+asd 20
+Dio 30
+flask 40
+nick 10
+gg 20
+hot 0
+fdjgh 0
